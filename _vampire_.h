@@ -1,0 +1,7 @@
+class  Vampire : public Monster {
+
+
+
+
+      };
+      
